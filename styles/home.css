@@ -351,14 +351,6 @@ footer .contact-form button {
         display: inline-block;
     }
 
-    #blog .articles-container:after
-    /* .testimonials-container:after */{ 
-        content: '';
-        display: block;
-        clear: both;
-
-    }
-
     footer .services, footer .contact-info {
         display:inline-block;
         width: 46%;
