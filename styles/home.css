@@ -6,12 +6,9 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    /* font-family: 'Open Sans'; */
     background-color: #edeff0;
 }
-/* 
-font-family: 'Roboto', sans-serif;
-font-family: 'Open Sans', sans-serif; */
+
 
 
 /*Header section */
@@ -350,7 +347,6 @@ footer .contact-form button {
   
 
     #blog .article {
-        /* float:left; */
         width: 44%;
         display: inline-block;
     }
@@ -400,9 +396,6 @@ footer .contact-form button {
     }
     .work.one, .work.two, .work.three, .work.four {
        width: 22%;
-       /* vertical-align: top; */
-      
-       
     }
    .articles-container {
        max-width: 90%;
@@ -418,9 +411,7 @@ footer .contact-form button {
         display:inline-block;
         width: 30%;
     }
-    /* footer .contact-info {
-        margin-left: 100px;
-    } */
+  
     footer .contact-form input {
         width: 60%;
     }
